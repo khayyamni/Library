@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\C#\HomeTasksMix\Library\LibraryApp\Repository\bin\Debug\Repository.dll
+C:\Users\user\Desktop\C#\HomeTasksMix\Library\LibraryApp\Repository\bin\Debug\Repository.pdb
+C:\Users\user\Desktop\C#\HomeTasksMix\Library\LibraryApp\Repository\bin\Debug\Domain.dll
+C:\Users\user\Desktop\C#\HomeTasksMix\Library\LibraryApp\Repository\bin\Debug\Domain.pdb
+C:\Users\user\Desktop\C#\HomeTasksMix\Library\LibraryApp\Repository\obj\Debug\Repository.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C#\HomeTasksMix\Library\LibraryApp\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#\HomeTasksMix\Library\LibraryApp\Repository\obj\Debug\Repository.csproj.CopyComplete
+C:\Users\user\Desktop\C#\HomeTasksMix\Library\LibraryApp\Repository\obj\Debug\Repository.dll
+C:\Users\user\Desktop\C#\HomeTasksMix\Library\LibraryApp\Repository\obj\Debug\Repository.pdb
